@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "838076592034",
+    "project_id": "eicon-2c14a",
+    "storage_bucket": "eicon-2c14a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:838076592034:android:ff2c9fcf8b817d7e224cfb",
+        "android_client_info": {
+          "package_name": "com.example.loginsignupauth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYY_3LvF3Buu4kH9iOAjCzykWlHSiyC0w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

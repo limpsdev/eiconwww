@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "323003767888",
+    "project_id": "loginsignup-auth-e05b3",
+    "storage_bucket": "loginsignup-auth-e05b3.appspot.com",
+	"database_url" : "https://loginsignup-auth-e05b3-default-rtdb.asia-southeast1.firebasedatabase.app/"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:323003767888:android:5e1d4661b36c8a4e474555",
+        "android_client_info": {
+          "package_name": "com.example.loginsignupauth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzydkzRvTfiFqzSHz9eQLwfx_rSDYBP_8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
